@@ -7,7 +7,7 @@ Simplemente ejecute:
 bas runall.sh
 ```
 
-Desde su browser acceda a:
+Después de correr el servidor acceda a:
 ```
-http://localhost:8080/
+[http://localhost:8080/]http://localhost:8080/
 ```
