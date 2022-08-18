@@ -4,7 +4,7 @@ Actualización de material para el curso de FDP - Universidad del Valle. Los eje
 
 Simplemente ejecute:
 ```
-bas runall.sh
+bash runall.sh
 ```
 
 Después de correr el servidor acceda a:
