@@ -9,5 +9,5 @@ bas runall.sh
 
 Después de correr el servidor acceda a:
 
-[http://localhost:8080/]http://localhost:8080/
+[]http://localhost:8080/
 
